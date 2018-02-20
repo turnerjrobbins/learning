@@ -27,17 +27,17 @@ It is possible to consider vector space over rationals, but not over the integer
 The space R^n is all columns of size n
 The space C^n is all columns of size n of complex numbers
 
-###Matrix Notation
+### Matrix Notation
 An m x n matrix has m rows and n columns. We call each element an **entry**.
-entry in row j and column k can be denoted by A<sub>j,k<sub/>
-Given matrix *A* its **transpose** A<sup>T<sup/>, is defined by making the rows columns.
+entry in row j and column k can be denoted by A<sub>j,k</sub>.
+Given matrix *A* its **transpose** AT, is defined by making the rows columns.
 |1, 2, 3|
 |4, 5, 6|
 becomes
 |1, 4|
 |2, 5|
 |3, 6|
-Formally A<sup>T<sup/><sub>j,k<sub/> = A<sub>k,j<sub/>
+Formally A<sup>T</sup><sub>j,k</sub> = A<sub>k,j</sub>
 
 Exercises
 1.1 **x** = (1,2,3)T, **y** = (y1,y2,y3)T, **z** = (4,2,1)T. 
